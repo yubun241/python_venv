@@ -19,5 +19,24 @@ https://www.python.org/
 ソフトウェアをインストールの実施
 versionによって書き方が異なるケースがあるので注意が必要。
 インストールの際は赤枠のチェック欄に2点チェックを入れる
+
 <img width="384" height="240" alt="スクリーンショット 2026-02-12 100440" src="https://github.com/user-attachments/assets/298718df-e72b-4c12-b11a-3e24d2245989" />
+
+## 仮想環境の設立
+コマンドプロンプトを開いて
+先ほど作成したpythonフォルダをカレントディレクトリにする
+cd python と入力する
+
+その後
+python –m venv 環境名と入力する
+今回env1という環境名にした。その部分は自由につけて問題ない
+
+<img width="410" height="81" alt="image" src="https://github.com/user-attachments/assets/b39915b1-22b1-40ec-a9fe-1d47bdd69c7d" />
+
+<img width="566" height="220" alt="スクリーンショット 2026-02-12 101040" src="https://github.com/user-attachments/assets/aaa78934-a144-44d7-9416-2cbe775b4592" />
+
+
+
+
+
 
