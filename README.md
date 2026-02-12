@@ -18,7 +18,6 @@ Cドライブ直下にpythonフォルダを作成
 https://www.python.org/
 ソフトウェアをインストールの実施
 versionによって書き方が異なるケースがあるので注意が必要。
-<img width="529" height="327" alt="image" src="https://github.com/user-attachments/assets/6399b669-e6ad-4034-b3f8-cbcb9a715046" />
-<img width="529" height="327" alt="image" src="https://github.com/user-attachments/assets/6399b669-e6ad-4034-b3f8-cbcb9a715046" />
-
+インストールの際は赤枠のチェック欄に2点チェックを入れる
+<img width="384" height="240" alt="スクリーンショット 2026-02-12 100440" src="https://github.com/user-attachments/assets/298718df-e72b-4c12-b11a-3e24d2245989" />
 
