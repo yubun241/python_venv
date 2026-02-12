@@ -64,12 +64,25 @@ pip uninstall ライブラリ名
 pip install ライブラリ名 -U
 
 ## ライブラリがプロキシーエラーを出力した場合の対処方法
+各々の環境によってライブラリをインストール場合これらで引っかかる可能性がある
+その場合は以下でいったん自身のプロキシを確認する
+設定からネットワークとインターネット　→　プロキシ
+にてプロキシを確認できる
+
+<img width="592" height="543" alt="スクリーンショット 2026-02-12 102335" src="https://github.com/user-attachments/assets/7ecca862-225f-4cb1-8193-503f8493090c" />
 
 
+pip構文を以下に変更して実行すると改善する
+pip install ライブラリ名 --proxy http://プロキシのIPアドレス:ポート番号
 
+## テストコードの実行
+デスクトップ上にスクリプトを配置して以下を入力して実行を行う
+カレントディレクトリをデスクトップにして
+python ファイル名　で実行
+今回は
+python test.py
 
-
-
+<img width="602" height="55" alt="スクリーンショット 2026-02-12 102905" src="https://github.com/user-attachments/assets/45eda4ce-5421-4ba0-8348-8c78fd85b38a" />
 
 
 
